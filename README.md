@@ -1,0 +1,2 @@
+# eli.m3u
+#EXTM3U  #EXTINF:-1,paramount http://flus1.sanpedrowifi.com/live/paramount.sd.ird/tracks-v1a1/mono.m3u8 #EXTINF:-1,telemundo https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&amp;deviceVersion=0&amp;appVersion=0&amp;deviceType=0&amp;deviceMake=0&amp;sid=3937&amp;deviceDNT=0&amp;deviceModel=0 #EXTINF:-1,paramount http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8
